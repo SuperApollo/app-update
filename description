@@ -1,7 +1,7 @@
 {
 	"appVersion":"1.3",
-	"appSize":"3M",
-	"appDescription":"1,增加设置\n2,增强稳定性",
-	"appUrl":"https://github.com/SuperApollo/app-update/raw/master/DiscountHunter_v1.3_qq.apk"
+	"appSize":"2.9M",
+	"appDescription":"1,增加设置\n2,增加检查更新功能\n3,增加清除缓存功能",
+	"appUrl":"https://github.com/SuperApollo/app-update/raw/master/DiscountHunter_v1.3_github.apk"
 
 }

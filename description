@@ -1,7 +1,7 @@
 {
-	"appVersion":"1.3.4",
-	"appSize":"4.49M",
-	"appDescription":"1,解决7.0以上手机无法更新升级问题\n2,原7.0以上用户请先卸载APP，然后扫描二维码下载",
-	"appUrl":"https://github.com/SuperApollo/app-update/raw/master/DiscountHunter_release_v1.3.4_github.apk"
+	"appVersion":"1.3.5",
+	"appSize":"4.47M",
+	"appDescription":"1,增加商品详情页分享功能，可以将宝贝分享给小伙伴啦\n2,重构代码，压缩apk大小，小体积，大能量！",
+	"appUrl":"https://github.com/SuperApollo/app-update/raw/master/DiscountHunter_release_v1.3.5_github.apk"
 
 }
